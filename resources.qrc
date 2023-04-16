@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/xml">
+        <file>haarcascade_frontalface_default/haarcascade_frontalface_default.xml</file>
+    </qresource>
+</RCC>
